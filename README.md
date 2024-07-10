@@ -1,6 +1,8 @@
 # Awesome SaaS Boilerplates and Starter Kits Catalog
 
-Welcome to the Awesome SaaS Boilerplates and Starter Kits Catalog! This repository is a curated list of high-quality starter kits and templates categorized by tech stack, framework, and language. Whether you're a beginner or an experienced developer, you'll find valuable resources to jumpstart your SaaS projects.
+Welcome to the Awesome SaaS Boilerplates and Starter Kits Catalog.
+
+This repository is a curated list of high-quality starter kits and templates categorized by tech stack, framework, database and language. Whether you're a beginner or an experienced developer, you'll find valuable resources to jumpstart your SaaS projects.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -14,7 +16,7 @@ Welcome to the Awesome SaaS Boilerplates and Starter Kits Catalog! This reposito
 
 ## Overview
 
-This catalog aims to provide an easy way to find and share starter kits and templates across various tech stacks, frameworks, and languages. Each entry includes detailed information about the boilerplate, including the tech stack, price, developer, and a link to the repository or website.
+This catalog aims to provide an easy way to find and share starter kits and templates across various tech stacks, frameworks, database and languages. Each entry includes detailed information about the boilerplate, including the tech stack, price, developer, and a link to the repository or website.
 
 ## Featured Boilerplates
 
