@@ -61,7 +61,6 @@ Browse the available boilerplates and starter kits by category:
 |------|------------|----------|--------------|-------|--------------|
 | [ShipFlask Boilerplate](https://shipflask.com) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) | Auth, Stripe, OpenAI integration | $149 | 2024-02-10 |
 
-... (continue for other categories)
 
 ## How to Use This Catalog
 
