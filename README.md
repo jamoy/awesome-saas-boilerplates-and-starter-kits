@@ -20,12 +20,12 @@ This catalog aims to provide an easy way to find and share starter kits and temp
 
 ## Featured Boilerplates
 
-Here are some of the most popular and comprehensive SaaS boilerplates:
+Here are some of the most popular and comprehensive SaaS boilerplates that use Neon Postgres:
 
 | Name | Tech Stack | Database | Key Features | Price | Last Updated |
 |------|------------|----------|--------------|-------|--------------|
-| [Bedrock](https://bedrock.mxstbr.com) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql) | GraphQL, Stripe, Prisma | $396 | 2024-03-01 |
-| [SaaS AI Boilerplate](https://www.saasai.dev) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql) | AI integration, Stripe, Auth | $149 | 2024-02-15 |
+| [LaunchFast](https://www.launchfa.st/) | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte) | ![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-336791?style=flat-square&logo=postgresql) | SEO, Analytics, Auth (Google, Twitter, Email), Stripe Payments, File Storage, Email Verification, 0-Config Deployment | Starts from $75 | 2024-03-15 |
+| [Supastarter](https://supastarter.dev/) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js) | ![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-336791?style=flat-square&logo=postgresql) | Auth, Payments, AI, Multi-tenancy, File uploads, Serverless, Blog, i18n, Analytics, Admin UI | Starts from $299 | 2024-03-15 |
 
 ## Categories
 
