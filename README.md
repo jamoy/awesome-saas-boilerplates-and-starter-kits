@@ -56,6 +56,27 @@ Browse the available boilerplates and starter kits by category:
 | [Makerkit](https://makerkit.dev) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) | Not specified | Comprehensive SaaS Starter Kit | Starts from $199 | 2024-03-15 |
 | [ShipFast](https://shipfa.st/) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase) | NextAuth (Google login, Magic link), Stripe integration, Mailgun, SEO optimization, API calls, customer support | Starts from $169 (with $100 off promotion) | 2024-03-15 |
 | [LaunchFast](https://www.launchfa.st/) | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql) | SEO, Analytics, Storage, Auth (Google, Twitter, Email), Stripe Payments, File Storage, Email Verification, 0-Config Deployment | Starts from $75 | 2024-03-15 |
+| [Nextacular](https://nextacular.co/) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql) | Multi-tenancy, Authentication, Stripe integration, Team management | $99 (one-time) | 2024-03-15 |
+| [Neon Minimal Starter](https://github.com/neondatabase/neon-minimal-starter) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) | ![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-336791?style=flat-square&logo=postgresql) | Serverless Postgres, Prisma ORM, Simple CRUD | Free | 2024-03-15 |
+| [SaaS Starter Kit](https://github.com/boxyhq/saas-starter-kit) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql) | Multi-tenancy, SSO/SAML, User management, Subscriptions | Free | 2024-03-15 |
+
+### React
+
+| Name | Tech Stack | Database | Key Features | Price | Last Updated |
+|------|------------|----------|--------------|-------|--------------|
+| [React SaaS Template](https://github.com/dunky11/react-saas-template) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui) | Not specified | Subscription payments, Authentication, Theming | Free | 2024-03-15 |
+
+### Vue.js
+
+| Name | Tech Stack | Database | Key Features | Price | Last Updated |
+|------|------------|----------|--------------|-------|--------------|
+| [SaaSFlow](https://saasflow.io) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) | Not specified | Authentication, Billing, Team management, API | $199 | 2024-03-15 |
+
+### Laravel
+
+| Name | Tech Stack | Database | Key Features | Price | Last Updated |
+|------|------------|----------|--------------|-------|--------------|
+| [Wave](https://devdojo.com/wave) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) | User authentication, Subscription billing, API, Admin panel | $99 (one-time) | 2024-03-15 |
 
 ### Node.js
 
