@@ -129,6 +129,7 @@ Browse the available boilerplates and starter kits by category:
 
 ### Other / Multi-framework
 
+- [SYNDROM](https://syndrom.io/) - Angular/NestJS SaaS Boilerplate
 - [BoilerCode](https://boilercode.co/) - SaaS Boilerplate
 - [Scale Safe](https://scalesafe.app/) - SaaS Boilerplate
 - [Gravity](https://usegravity.app/) - SaaS Boilerplate
